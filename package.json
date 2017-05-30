@@ -1,0 +1,30 @@
+{
+  "name": "react-starter",
+  "version": "1.0.0",
+  "description": "Starter seed for simple react demo applications",
+  "main": "index.js",
+  "scripts": {
+    "start": "webpack-dev-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adamfitzpatrick/react-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adamfitzpatrick/react-starter/issues"
+  },
+  "homepage": "https://github.com/adamfitzpatrick/react-starter#readme",
+  "devDependencies": {
+    "babel-core": "^6.24.1",
+    "babel-loader": "^7.0.0",
+    "babel-preset-env": "^1.5.1",
+    "babel-preset-react": "^6.24.1",
+    "react": "^15.5.4",
+    "react-dom": "^15.5.4",
+    "webpack": "^2.6.1",
+    "webpack-dev-server": "^2.4.5"
+  }
+}
